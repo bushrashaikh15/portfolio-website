@@ -1,7 +1,3 @@
-Perfect. Here is your complete, professional README content without emojis. You can copy and replace your current README.md with this.
-
----
-
 # Portfolio Website
 
 ## Overview
